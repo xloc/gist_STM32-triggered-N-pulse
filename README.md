@@ -5,7 +5,7 @@ About
 - how to use an advanced timer (TIM1 for F401) to generate N pulses output when receiving a trigger, and
 - How to generate PWM using TIMs
 
-[There](./README-res/res.md) are more snap shots from CubeMX
+[There](./README-res/snapshots.md) are more snap shots from CubeMX
 
 ##### To output PWM
 
